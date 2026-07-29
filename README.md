@@ -18,12 +18,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Depth-First Search
 |  |
 | ------- |
+| [0207-course-schedule](https://github.com/nur-rabby09/leetcode/tree/master/0207-course-schedule) |
 | [0733-flood-fill](https://github.com/nur-rabby09/leetcode/tree/master/0733-flood-fill) |
 | [1020-number-of-enclaves](https://github.com/nur-rabby09/leetcode/tree/master/1020-number-of-enclaves) |
 | [1971-find-if-path-exists-in-graph](https://github.com/nur-rabby09/leetcode/tree/master/1971-find-if-path-exists-in-graph) |
 ## Breadth-First Search
 |  |
 | ------- |
+| [0207-course-schedule](https://github.com/nur-rabby09/leetcode/tree/master/0207-course-schedule) |
 | [0733-flood-fill](https://github.com/nur-rabby09/leetcode/tree/master/0733-flood-fill) |
 | [0994-rotting-oranges](https://github.com/nur-rabby09/leetcode/tree/master/0994-rotting-oranges) |
 | [1020-number-of-enclaves](https://github.com/nur-rabby09/leetcode/tree/master/1020-number-of-enclaves) |
@@ -42,5 +44,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Graph Theory
 |  |
 | ------- |
+| [0207-course-schedule](https://github.com/nur-rabby09/leetcode/tree/master/0207-course-schedule) |
 | [1971-find-if-path-exists-in-graph](https://github.com/nur-rabby09/leetcode/tree/master/1971-find-if-path-exists-in-graph) |
+## Topological Sort
+|  |
+| ------- |
+| [0207-course-schedule](https://github.com/nur-rabby09/leetcode/tree/master/0207-course-schedule) |
 <!---LeetCode Topics End-->
