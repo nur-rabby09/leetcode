@@ -63,4 +63,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3731-find-missing-elements](https://github.com/nur-rabby09/leetcode/tree/master/3731-find-missing-elements) |
+## String
+|  |
+| ------- |
+| [2390-removing-stars-from-a-string](https://github.com/nur-rabby09/leetcode/tree/master/2390-removing-stars-from-a-string) |
+## Stack
+|  |
+| ------- |
+| [2390-removing-stars-from-a-string](https://github.com/nur-rabby09/leetcode/tree/master/2390-removing-stars-from-a-string) |
+## Simulation
+|  |
+| ------- |
+| [2390-removing-stars-from-a-string](https://github.com/nur-rabby09/leetcode/tree/master/2390-removing-stars-from-a-string) |
 <!---LeetCode Topics End-->
